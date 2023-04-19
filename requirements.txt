@@ -1,4 +1,4 @@
-import dash
+dash==1.19.0
 from dash import dcc
 from dash import dcc
 from dash import html
