@@ -2,9 +2,5 @@ dash==1.19.0
 pandas==1.4.3
 plotly==5.7.0
 folium==0.14.0
-import dash_mantine_components as dmc
-from dash import Dash, dash_table
-import dash_bootstrap_components as dbc
-from dash import Dash, Input, Output, callback, dash_table
-import numpy as np
-import matplotlib.pyplot as plt
+numpy==1.21.1
+matplotlib==3.5.0
